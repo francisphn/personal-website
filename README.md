@@ -1,6 +1,6 @@
 # Francis' Personal Website
 
-A very simple website at (phan.nz)[https://phan.nz] introducing myself.
+A very simple website at [phan.nz[(https://phan.nz) introducing myself.
 
 ## Running locally
 
