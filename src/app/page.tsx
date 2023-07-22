@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const Home = () => {
+export function Home() {
   return (
     <div className="p-16 space-y-4">
       <div className="">
@@ -50,5 +50,3 @@ const Home = () => {
     </div>
   );
 };
-
-export default Home;
