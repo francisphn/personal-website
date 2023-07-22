@@ -5,7 +5,7 @@ const Home = () => {
     <div className="p-16 space-y-4">
       <div className="">
         <p className="font-bold text-xl">Hi! My name is Francis Phan</p>
-        <p>I'm a Computer Science student at the University of Canterbury.</p>
+        <p>I&apos;m a Computer Science student at the University of Canterbury.</p>
         <p>I currently work for Triage-Plus, a health startup. Once a Xero.</p>
       </div>
 
