@@ -12,7 +12,7 @@ export default function Home() {
       </div>
 
       <div>
-        <p className="font-bold">My current interests:</p>
+        <p className="font-bold">My interests:</p>
 
         <ul className="list-disc pl-6 space-y-1.5">
           <li>
@@ -23,7 +23,15 @@ export default function Home() {
           <li>Content-based recommendation systems</li>
           <li>CI/CD, CI/CD optimisation and platform observability</li>
           <li>GraphQL, ASP.NET Core and cloud security practices</li>
+        </ul>
+      </div>
+
+      <div>
+        <p className="font-bold">What I'm currently playing around with...</p>
+
+        <ul className="list-disc pl-6 space-y-1.5">
           <li>Android development</li>
+          <li>AR/VR and visualisation</li>
         </ul>
       </div>
 
