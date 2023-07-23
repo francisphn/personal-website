@@ -27,7 +27,7 @@ export default function Home() {
       </div>
 
       <div>
-        <p className="font-bold">What I'm currently playing around with...</p>
+        <p className="font-bold">What I&apos;m currently playing around with...</p>
 
         <ul className="list-disc pl-6 space-y-1.5">
           <li>Android development</li>
