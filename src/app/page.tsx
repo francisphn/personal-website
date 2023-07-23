@@ -21,7 +21,7 @@ export default function Home() {
           </li>
           <li>Parallelism and scalability</li>
           <li>Content-based recommendation systems</li>
-          <li>CI/CD, CI/CD optimisation and platform observability</li>
+          <li>CI/CD, Infrastructure as Code and platform observability</li>
           <li>GraphQL, ASP.NET Core and cloud security practices</li>
         </ul>
       </div>
