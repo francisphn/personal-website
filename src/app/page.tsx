@@ -6,9 +6,9 @@ export default function Home() {
       <div className="">
         <p className="font-bold text-xl">Hi! My name is Francis Phan</p>
         <p>
-          I&apos;m a Computer Science student at the University of Canterbury.
+          I recently graduated from the University of Canterbury with a CompSci degree.
         </p>
-        <p>I currently work for Triage-Plus, a health startup. Once a Xero.</p>
+        <p>I currently work for Triage-Plus, and am an incoming Graduate Engineer for Xero in 2024.</p>
       </div>
 
       <div>

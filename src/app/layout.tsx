@@ -1,8 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Barlow } from "next/font/google";
-
-const barlow = Barlow({ weight: ["400", "600"], subsets: ["latin"] });
+import React from "react";
+import localFont from 'next/font/local'
 
 export const metadata: Metadata = {
   title: "Francis Phan",
@@ -16,7 +15,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={barlow.className}>{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
